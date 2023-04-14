@@ -1,3 +1,5 @@
+<h1> Welcome, I'm Leigh. Nice to meet you. </h1>
+
 <!--------------------- Technologies That I Have Used ---------------------->
 <h3 align="center">🤖 Technologies</h3>
 <h4>Test</h4>
@@ -19,7 +21,6 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=plastic&logo=DigitalOcean&logoColor=white" height="22px"/>
 </p>
 
 <!--------------------- Tools ---------------------->
@@ -27,13 +28,9 @@
 <p align="center">
     <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=plastic&logo=windows%20terminal&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Figma-F22E1E?style=plastic&logo=figma&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=Obsidian&logoColor=white" height="22px"/>
 <p>
 
@@ -42,6 +39,4 @@
 <p align="center">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" height="22px"/>
 </p>
