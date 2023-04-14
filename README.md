@@ -1,8 +1,31 @@
-<h1 align="center"> Welcome, I'm Leigh. Nice to meet you. </h1>
+
+
+
+
+<h1 align="center"> Welcome, I'm Leigh. Nice to meet you! </h1>
+
+<!--------------------- Links ---------------------->
+<p align="center">
+    <!-- <a href="https://github.com/leighstephenson" target="_blank" rel="noopener noreferrer">
+      <img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px" width="100px"/>
+    </a> -->
+    <a href="mailto:leighh.stephenson@@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img alt="Gmail Link" title="Gmail Link" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" width="100px"/>
+    </a>
+    <a href="https://www.linkedin.com/in/leigh-stephenson/" target="_blank" rel="noopener noreferrer">
+      <img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width="100px"/>
+    </a>
+</p>
+
+<h2 align="center"> Full Stack Software Engineer</h2>
+
+<p> I am currently a full stack engineering student at Prime Digital Acadamy and will be graduating in July 2023. I am learning more every day and look forward to the next challenge. Stay awhile, check out my page!
+
+
 
 <!--------------------- Technologies That I Have Used ---------------------->
-<h3 align="center">🤖 Technologies</h3>
-<h4>Test</h4>
+<h3 align="center">🤖 Technologies 🤖</h3>
+
 <!--------------------- Frontend ---------------------->
 <h4 align="center">Frontend</h4>
 <p align="center">
@@ -34,9 +57,3 @@
     <img src="https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=Obsidian&logoColor=white" height="22px"/>
 <p>
 
-<!--------------------- Operating Systems ---------------------->
-<h4 align="center">Operating Systems</h4>
-<p align="center">
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=white" height="22px"/>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" height="22px"/>
-</p>
