@@ -1,4 +1,4 @@
-<h1> Welcome, I'm Leigh. Nice to meet you. </h1>
+<h1 align="center"> Welcome, I'm Leigh. Nice to meet you. </h1>
 
 <!--------------------- Technologies That I Have Used ---------------------->
 <h3 align="center">🤖 Technologies</h3>
