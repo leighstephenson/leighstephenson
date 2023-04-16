@@ -1,11 +1,15 @@
 
 
-
+<!-- ![welcome-banner.png]  -->
 
 <h1 align="center"> Welcome, I'm Leigh. Nice to meet you! </h1>
 
 <!--------------------- Links ---------------------->
-<p align="center">
+<h2 align="center"> Full Stack Software Engineer</h2>
+</br>
+
+<h3 align="center"> Contact: </h3>
+<div align="center">
     <!-- <a href="https://github.com/leighstephenson" target="_blank" rel="noopener noreferrer">
       <img alt="GitHub Link" title="GitHub Link" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30px" width="100px"/>
     </a> -->
@@ -15,16 +19,17 @@
     <a href="https://www.linkedin.com/in/leigh-stephenson/" target="_blank" rel="noopener noreferrer">
       <img alt="LinkedIn Link" title="LinkedIn Link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width="100px"/>
     </a>
+</div>
+
+</br>
+
+<p align="center"> I am currently a full stack software engineering student at Prime Digital Acadamy and will be graduating in July 2023. I am learning more every day and look forward to the next challenge. Stay awhile, check out my page!
 </p>
 
-<h2 align="center"> Full Stack Software Engineer</h2>
-
-<p> I am currently a full stack engineering student at Prime Digital Acadamy and will be graduating in July 2023. I am learning more every day and look forward to the next challenge. Stay awhile, check out my page!
-
-
+</br>
 
 <!--------------------- Technologies That I Have Used ---------------------->
-<h3 align="center">🤖 Technologies 🤖</h3>
+<h2 align="center">🤖 Technologies 🤖</h2>
 
 <!--------------------- Frontend ---------------------->
 <h4 align="center">Frontend</h4>
@@ -44,6 +49,7 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white" height="22px"/>
+    
 </p>
 
 <!--------------------- Tools ---------------------->
@@ -55,5 +61,20 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" height="22px"/>
     <img src="https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=Obsidian&logoColor=white" height="22px"/>
-<p>
 
+</p>
+    <!-- Add badges for microsoft teams, Java, C++, HTML5 -->
+
+</br>
+</br
+>
+<h2 align="center">✨Miscellaneous interests✨</h4>
+
+<div align="center">
+ ⛰️Hiking⛰️ | 🛶Kayaking🛶 | 🏕️Camping🏕️ </br>
+ 🏸Badminton🏸 | 🎨Painting🎨 | 🪴Gardening🪴  </br>
+  💸Personal Finance💸 | 🧠Psychology🧠 | 🔋 Wellness🔋  </br>
+  ♻️ Sustainability ♻️ | 🌎 Environmentalism 🌎 | 🧘‍♀️Yoga🧘‍♀️  <br>
+👻The Paranormal👻 | 👹 Cryptids 👹| 🛸Aliens🛸  </br>
+  💻 Graphic Design 💻|  🏛️ Ancient civilizations 🏛️  </br>
+</div>
