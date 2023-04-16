@@ -1,8 +1,8 @@
 
 
-<!-- ![welcome-banner.png]  -->
+![welcome](welcome-banner.png)
 
-<h1 align="center"> Welcome, I'm Leigh. Nice to meet you! </h1>
+<h1 align="center"> I'm Leigh. Nice to meet you! </h1>
 
 <!--------------------- Links ---------------------->
 <h2 align="center"> Full Stack Software Engineer</h2>
@@ -23,7 +23,7 @@
 
 </br>
 
-<p align="center"> I am currently a full stack software engineering student at Prime Digital Acadamy and will be graduating in July 2023. I am learning more every day and look forward to the next challenge. Stay awhile, check out my page!
+<p align="center"> I am currently a full stack software engineering student at Prime Digital Academy and will be graduating in July 2023. I am learning more every day and look forward to the next challenge. Stay awhile, check out my page!
 </p>
 
 </br>
