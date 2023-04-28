@@ -2,11 +2,17 @@
 
 ![welcome](welcome-banner.png)
 
+
+
 <h1 align="center"> I'm Leigh. Nice to meet you! </h1>
 
 <!--------------------- Links ---------------------->
 <h2 align="center"> Full Stack Software Engineer</h2>
 </br>
+
+
+
+
 
 <h3 align="center"> Contact: </h3>
 <div align="center">
@@ -63,7 +69,7 @@
     <img src="https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=Obsidian&logoColor=white" height="22px"/>
 
 </p>
-    <!-- Add badges for microsoft teams, Java, C++, HTML5 -->
+    <!-- Add badges for microsoft teams, Java, C++, HTML5, processing systems, terminal, oracle -->
 
 </br>
 </br
@@ -78,3 +84,17 @@
 👻The Paranormal👻 | 👹 Cryptids 👹| 🛸Aliens🛸  </br>
   💻 Graphic Design 💻|  🏛️ Ancient civilizations 🏛️  </br>
 </div>
+
+</br>
+</br>
+
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=leighstephenson&style=flat-square&color=green" alt=""/>
+</div>
+
+</br>
+</br>
+
+<p id="profileGraph" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leighstephenson&theme=github_dark" alt="GitHub Profile Summary Card">
+</p>
