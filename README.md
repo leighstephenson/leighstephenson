@@ -29,7 +29,7 @@
 
 </br>
 
-<p align="center"> I am currently a full stack software engineering student at Prime Digital Academy and will be graduating in July 2023. I am learning more every day and look forward to the next challenge. Stay awhile, check out my page!
+<p align="center"> I am currently looking for a Full-Stack or Front-End role that will allow me to flourish. I am learning more every day and look forward to the next challenge. Stay awhile, check out my page!
 </p>
 
 </br>
