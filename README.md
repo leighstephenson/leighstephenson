@@ -69,28 +69,6 @@
     <img src="https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=Obsidian&logoColor=white" height="22px"/>
 
 </p>
-    <!-- Add badges for microsoft teams, Java, C++, HTML5, processing systems, terminal, oracle -->
-
-</br>
-</br
->
-<h2 align="center">✨Miscellaneous interests✨</h4>
-
-<div align="center">
- ⛰️Hiking⛰️ | 🛶Kayaking🛶 | 🏕️Camping🏕️ </br>
- 🏸Badminton🏸 | 🎨Painting🎨 | 🪴Gardening🪴  </br>
-  💸Personal Finance💸 | 🧠Psychology🧠 | 🔋 Wellness🔋  </br>
-  ♻️ Sustainability ♻️ | 🌎 Environmentalism 🌎 | 🧘‍♀️Yoga🧘‍♀️  <br>
-👻The Paranormal👻 | 👹 Cryptids 👹| 🛸Aliens🛸  </br>
-  💻 Graphic Design 💻|  🏛️ Ancient civilizations 🏛️  </br>
-</div>
-
-</br>
-</br>
-
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=leighstephenson&style=flat-square&color=green" alt=""/>
-</div>
 
 </br>
 </br>
